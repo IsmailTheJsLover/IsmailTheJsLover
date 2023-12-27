@@ -9,7 +9,6 @@ I'm working as a WordPress developer. now I'm working in freelance marketplace. 
 
 Skills: HTML/ CSS/ JAVASCRIPT/PHP/BOOTSTRAP /SASS/ PS/AI
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning WordPress 
 - 👯 I’m looking to collaborate on GitHub  
 - 💬 Ask me about WordPress and JavaScript 
